@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeongwoo Lee</h1>
-<h3 align="center">A passionate frontend developer from Korea 💛</h3>
+<h3 align="center">A passionate frontend developer from 🇰🇷 Korea 💛</h3>
 
 - 💬 I am **UI/UX Designer, Frontend Developer, and also a Product Owner/Manager**
 
